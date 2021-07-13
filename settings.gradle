@@ -1,0 +1,2 @@
+rootProject.name = "Android_MVP_Example"
+include ':app'
